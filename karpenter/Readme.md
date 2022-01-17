@@ -25,5 +25,5 @@
 * Karpenter Allocator
 
 #### Components
-* Allocator - Fast Acting, latency sensitive controller
-* Reallocator - Slow Acting, Cost sensitive controller
+* **Allocator**   - Fast Acting, latency sensitive controller
+* **Reallocator** - Slow Acting, Cost sensitive controller
