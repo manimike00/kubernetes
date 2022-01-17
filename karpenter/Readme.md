@@ -2,4 +2,5 @@
 
 ## Traditional AutoScaling ( horizontal ) ##
 
-*
+Makeup : * Manual Provisioning
+         * Cluster AutoScaler
