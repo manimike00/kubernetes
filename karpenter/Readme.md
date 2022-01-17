@@ -5,7 +5,7 @@
 * Manual Provisioning
 * Cluster AutoScaler
 
-### Benefits of Cluster AutoScaler ###
+### Benefits of Cluster AutoScaler
 * Automatically grow the cluster to meet increased demands.
 * Reduce infrastructure costs through efficient resource utilization and node termination.
 * Vendor neutral with support for all major cloud providers.
@@ -17,6 +17,6 @@
 * Mirroring the data center "Rack" model.
 * Building upon existing layers in the cloud.
 
-#### Drawbacks
+### Drawbacks
 * Need separate node group diff type of instance.
 * Doesn't work with custom scheduler.
