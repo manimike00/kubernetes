@@ -11,3 +11,12 @@
 * Vendor neutral with support for all major cloud providers.
 * Widely adopted and battle tested approach.
 * Works great for clusters sizes ~ 1000 nodes.
+
+#### Node Group
+* Well managed capacity templates.
+* Mirroring the data center "Rack" model.
+* Building upon existing layers in the cloud.
+
+#### Drawbacks
+* Need separate node group diff type of instance.
+* Doesn't work with custom scheduler.
