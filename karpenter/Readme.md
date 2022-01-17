@@ -20,3 +20,10 @@
 ### Drawbacks
 * Need separate node group diff type of instance.
 * Doesn't work with custom scheduler.
+
+### Groupless Node AutoScaling
+* Karpenter Allocator
+
+#### Components
+* Allocator - Fast Acting, latency sensitive controller
+* Reallocator - Slow Acting, Cost sensitive controller
